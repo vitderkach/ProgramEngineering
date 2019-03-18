@@ -1,0 +1,5 @@
+G:\GraphicsLabApp_2\CombinationClassLibrary\bin\Debug\CombinationClassLibrary.dll
+G:\GraphicsLabApp_2\CombinationClassLibrary\bin\Debug\CombinationClassLibrary.pdb
+G:\GraphicsLabApp_2\CombinationClassLibrary\obj\Debug\CombinationClassLibrary.csprojResolveAssemblyReference.cache
+G:\GraphicsLabApp_2\CombinationClassLibrary\obj\Debug\CombinationClassLibrary.dll
+G:\GraphicsLabApp_2\CombinationClassLibrary\obj\Debug\CombinationClassLibrary.pdb
